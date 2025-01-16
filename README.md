@@ -16,5 +16,5 @@ Accurate weather forecasting is crucial for various sectors, from agriculture an
 
 * Data cleaning and preprocessing: Standardizing categorical features, outlier handling using isolation forests
 * EDA: Heat map and randmom forests for feature importance
-* Model creation: Catboost
+* Model creation: Catboost ensemble learning
 * Evaluation:  Mean squared error, Root mean squared error, and R-squared error.
